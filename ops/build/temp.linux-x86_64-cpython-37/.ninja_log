@@ -1,0 +1,8 @@
+# ninja log v5
+1	6932	1729073269331733472	/home/aman/Documents/PointPillars/ops/build/temp.linux-x86_64-cpython-37/voxelization/voxelization_cpu.o	7198087a429d95fd
+0	7726	1729073270123786130	/home/aman/Documents/PointPillars/ops/build/temp.linux-x86_64-cpython-37/voxelization/voxelization.o	76f8004afb376cab
+9	7307	1729073521530134938	/home/aman/Documents/PointPillars/ops/build/temp.linux-x86_64-cpython-37/voxelization/voxelization_cpu.o	b5a644382f01932c
+9	8271	1729073522494182266	/home/aman/Documents/PointPillars/ops/build/temp.linux-x86_64-cpython-37/voxelization/voxelization.o	1496d7ce2b8e4d2e
+10	8461	1729073522685191639	/home/aman/Documents/PointPillars/ops/build/temp.linux-x86_64-cpython-37/voxelization/voxelization_cuda.o	fc17fedfe4c3d4e7
+1	1041	1729073524280269822	/home/aman/Documents/PointPillars/ops/build/temp.linux-x86_64-cpython-37/iou3d/iou3d_kernel.o	5dc2c88dd8924c14
+0	7582	1729073530813588651	/home/aman/Documents/PointPillars/ops/build/temp.linux-x86_64-cpython-37/iou3d/iou3d.o	834969aa46a351cd
